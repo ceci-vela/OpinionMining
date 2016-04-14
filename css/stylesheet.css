@@ -1,0 +1,101 @@
+/*CSS Document*/
+*
+{
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Arial, Helvetica, sans-serif;
+/**/
+}
+BODY
+{
+	width: 800px;
+/*background-color: #333;*/
+}
+#logo
+{
+	/*background-color: #F6C;
+	color: #FFF;
+	border-radius: 20px;
+	margin: 5px;
+	padding: 3px;
+	font-size: 18px;
+	font-family: Verdana, Geneva, sans-serif;
+	width: 100px;
+	float: left;
+	box-shadow: 5px 5px 5px #888;*/
+	height: 50px;
+	width: 50px;
+	float: left;
+	margin-right: 10px;
+	margin-top: 18px;
+}
+
+div#searchPanel {
+	width: 550px;
+	margin-top: -20px;
+}
+input#entrada {
+	width: 245px;
+}
+#logo P
+{
+	color: #FFF;
+	font-size: 12px;
+	margin-top: -12px;
+	margin-left: 12px;
+}
+#search
+{
+	width: 400px;
+	float: none;
+	clear: right;
+	background-color: steelblue;
+	font-size: 24px;
+	border-radius: 0px 0px 20px 20px;
+	padding: 10px;
+	margin-top: 3px;
+	margin-bottom: 30px;
+	padding-left: 16px;
+/*box-shadow: 5px 5px 5px #888;*/
+}
+INPUT
+{
+	color: #000;
+}
+#q
+{
+	color: #00C;
+	padding-top: 0px;
+}
+#results
+{
+	clear: both;
+	width: 100%;
+	background-color: #F4F4F4;
+	color: #333;
+	border-radius: 20px;
+	padding: 10px;
+	margin-top: 3px;
+	box-shadow: 5px 5px 5px #888;
+}
+#results .rta
+{
+	padding: 10px;
+	margin-top: 3px;
+}
+#results .rta, A
+{
+	padding-top: 10px;
+	border-color: #C36;
+	background-color: #C3C;
+	border-radius: 20px;
+}
+#bt
+{
+	background-color: #090;
+	border-radius: 5px;
+}
+
+em {
+	float: right;
+}
